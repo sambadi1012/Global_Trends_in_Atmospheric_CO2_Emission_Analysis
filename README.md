@@ -4,7 +4,7 @@
 This repository contains datasets and plots related to global trends in atmospheric CO2 emission. The datasets include various measurements of CO2 levels and associated data, while the plots visualize different aspects of CO2 emission trends over time.
 
 ## Contents
-- `data/`: Folder containing the dataset provided by Rushikesh Dane sir.
+- `data/`: Folder containing the dataset from Kaggle.
 - `notebooks/`: Jupyter notebooks for data analysis and visualization.
   - `CO2_Emission_Analysis.ipynb`: Main notebook containing the exploratory data analysis (EDA) using Python.
 - `plots/`: Folder containing visualizations generated during the analysis.
